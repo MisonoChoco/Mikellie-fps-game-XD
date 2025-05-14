@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNITY FILES\\personal fps game XD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|e:\\unity files\\personal fps game xd\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombiepatrollingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiepatrollingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\invector-3rdpersoncontroller_lite\\scripts\\charactercontroller\\vthirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\invector-3rdpersoncontroller_lite\\scripts\\charactercontroller\\vthirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\invector-3rdpersoncontroller_lite\\scripts\\camera\\vthirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\invector-3rdpersoncontroller_lite\\scripts\\camera\\vthirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombiechasingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiechasingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\clicktomove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktomove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\blackout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blackout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\globalreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\newcameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newcameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|E:\\UNITY FILES\\personal fps game XD\\assets\\scripts\\newplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC04905-603D-AA39-59F9-884D51860D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vThirdPersonController.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Invector-3rdPersonController_LITE\\Scripts\\CharacterController\\vThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Invector-3rdPersonController_LITE\\Scripts\\CharacterController\\vThirdPersonController.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Invector-3rdPersonController_LITE\\Scripts\\CharacterController\\vThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\Invector-3rdPersonController_LITE\\Scripts\\CharacterController\\vThirdPersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:44:15.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vThirdPersonCamera.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Invector-3rdPersonController_LITE\\Scripts\\Camera\\vThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Invector-3rdPersonController_LITE\\Scripts\\Camera\\vThirdPersonCamera.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Invector-3rdPersonController_LITE\\Scripts\\Camera\\vThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Invector-3rdPersonController_LITE\\Scripts\\Camera\\vThirdPersonCamera.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAEUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:30:27.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombie.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:18:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZombieIdleState.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieIdleState.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieIdleState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:15:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClickToMove.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ClickToMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickToMove.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ClickToMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickToMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:02:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:29:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAUwCoBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:56:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZombieSpawner.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieSpawner.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:04:39.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Blackout.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Blackout.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blackout.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Blackout.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blackout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:12:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZombieChasingState.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieChasingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieChasingState.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieChasingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieChasingState.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:19:51.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:05:34.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelfDestroy.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelfDestroy.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelfDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:36:20.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalReference.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\GlobalReference.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalReference.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\GlobalReference.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:30:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HUDManager.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\HUDManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDManager.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\HUDManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:07:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZombieAttackState.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAttackState.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombieAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAttackState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:55:59.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZombiePatrollingState.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombiePatrollingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombiePatrollingState.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\ZombiePatrollingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombiePatrollingState.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwDEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:53:10.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseMovement.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseMovement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:09:25.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwPIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:16:33.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:28:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AmmoBox.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\AmmoBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoBox.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\AmmoBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:47:53.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:22:20.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewCameraMovement.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\NewCameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewCameraMovement.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\NewCameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewCameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:52:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewPlayerMovement.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\NewPlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewPlayerMovement.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\NewPlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewPlayerMovement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:08:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StarterAssetsInputs.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeDocumentMoniker": "Assets\\InputSystem\\StarterAssetsInputs.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeToolTip": "Assets\\InputSystem\\StarterAssetsInputs.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:50:30.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Throwable.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Throwable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Throwable.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Throwable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Throwable.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwGcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:04:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:06:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionManager.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:19:53.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponManager.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwO4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:11:19.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Outline.cs",
+              "ToolTip": "E:\\UNITY FILES\\personal fps game XD\\Assets\\Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Outline.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:40:12.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
