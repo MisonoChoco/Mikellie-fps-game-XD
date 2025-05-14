@@ -1,2 +1,2 @@
-# personal-fps-game-XD
- my game... i made...
+# archived.
+ basically my very first prototype of hdrp zombie shooter one lol
